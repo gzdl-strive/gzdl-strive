@@ -8,16 +8,14 @@
 
 - 🌱 环境:&nbsp;&nbsp;[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code)](https://gzdl-strive.github.io/)&nbsp;[![Chrome](https://img.shields.io/badge/-Chrome-35495E?logo=Google-Chrome)](https://gzdl-strive.github.io/)&nbsp;[![NodeJS](https://img.shields.io/badge/-Node.js-000000?logo=Node.js)](https://gzdl-strive.github.io/)&nbsp;[![IDEA](https://img.shields.io/badge/-IDEA-1572B6?logo=IntelliJ-IDEA&logoColor=000000)](https://gzdl-strive.github.io/)
 
-Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)](https://gzdl-strive.github.io/) visitor, Thank You!🎉🎉
-
 <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzdl-strive&layout=compact" height="120px" /></span>
-<span><img height="120px" src="https://github-readme-stats.vercel.app/api?username=gzdl-strive&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </span>
+<span><img height="120px" src="https://github-readme-stats.vercel.app/api?username=gzdl-strive&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=ffffff&theme=graywhite" /> </span>
 
 
 🔥 My projects:
 -----------------------
-- 个人博客[https://gzdl-strive.github.io/](https://gzdl-strive.github.io/)
-- vitv
-- my-single-room
+- [vitv](http://124.222.103.60/ "vitv-admin")
+- [个人博客](https://gzdl-strive.github.io/)
+- [my-single-room](http://124.222.103.60:8888 "my single room")
 
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gzdl-strive" /> </div>

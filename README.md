@@ -11,11 +11,18 @@
 <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzdl-strive&layout=compact" height="120px" /></span>
 <span><img height="120px" src="https://github-readme-stats.vercel.app/api?username=gzdl-strive&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=ffffff&theme=graywhite" /> </span>
 
-
 🔥 My projects:
 -----------------------
-- [vitv](http://124.222.103.60/ "vitv-admin")
+- [vitv-admin](http://124.222.103.60/ "vitv-admin")
 - [个人博客](https://gzdl-strive.github.io/)
 - [my-single-room](http://124.222.103.60:8888 "my single room")
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gzdl-strive" /> </div>
+[![vitv-admin](https://github-readme-stats.vercel.app/api/pin/?username=gzdl-strive&repo=vitv-admin)](https://github.com/gzdl-strive/vitv-admin)
+[![three-practice](https://github-readme-stats.vercel.app/api/pin/?username=gzdl-strive&repo=three-project)](https://github.com/gzdl-strive/three-project)
+
+<hr />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gzdl-strive" />
+</div>
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=gzdl-strive" /> </div>
+

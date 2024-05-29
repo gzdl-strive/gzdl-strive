@@ -25,5 +25,3 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gzdl-strive" />
 </div>
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=gzdl-strive" /> </div>
-

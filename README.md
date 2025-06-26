@@ -1,6 +1,6 @@
 <h1 align="center">🔭这里是gzdl-strive的GitHub主页🔭</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1572B6&width=800&lines=🎯当前计划【GLSL语言基础】)](https://github.com/gzdl-strive)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1572B6&width=800&lines=🎯当前计划【顶点着色器】)](https://github.com/gzdl-strive)
 
 - 🚀 常用:&nbsp;&nbsp;[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/zh-CN/docs/Glossary/HTML5)&nbsp;[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)](https://developer.mozilla.org/zh-CN/docs/Web/CSS)&nbsp;[![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)&nbsp;[![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)](https://cn.vuejs.org/)&nbsp;[![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)](https://gzdl-strive.github.io/)&nbsp;[![NPM](https://img.shields.io/badge/-NPM-2875E3?logo=npm&logoColor=029137)](https://www.npmjs.com/)&nbsp;[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/gzdl-strive)
 
